@@ -28,7 +28,7 @@
 ## 文献情報
 
 \[1\] 宮田莉奈, 惟高日向, 山内洋輝, 柳本大輝, 梶原智之, 二宮崇, 西脇靖紘. <br>
-&emsp;&nbsp;&nbsp;MATCHA：専門家が平易化した記事を用いたやさしい日本語パラレルコーパス. <br>
+&emsp;&nbsp;&nbsp;[MATCHA：専門家が平易化した記事を用いたやさしい日本語パラレルコーパス](https://www.jstage.jst.go.jp/article/jnlp/31/2/31_590/_article/-char/ja). <br>
 &emsp;&nbsp;&nbsp;自然言語処理, Vol.31, No.2, pp.590-609, June 2024. <br>
 
 \[2\] 宮田莉奈, 惟高日向, 山内洋輝, 柳本大輝, 梶原智之, 二宮崇, ⻄脇靖紘. <br>
